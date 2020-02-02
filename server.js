@@ -1,1 +1,1 @@
-module.exports = require("preact-compat/server");
+module.exports = require("preact/compat/server");
